@@ -4,7 +4,7 @@ Simple overview of use/purpose.
 
 ## Description
 
-[Project References](https://kiwi-lunaria-06f.notion.site/Project-References-1b68ba8b8a9c4be788d3c263c3be0749)
+<a href="https://kiwi-lunaria-06f.notion.site/Project-References-1b68ba8b8a9c4be788d3c263c3be0749" target="_blank">Project References</a>
 
 ## Getting Started
 
